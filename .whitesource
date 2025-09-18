@@ -1,0 +1,17 @@
+{
+  "settingsInheritedFrom": "capitalone/whitesource-config@python310",
+  "scanSettings": {
+    "configMode": "AUTO",
+    "configExternalURL": "",
+    "projectToken": "",
+    "baseBranches": [
+      "main"
+    ]
+  },
+  "checkRunSettings": {
+    "vulnerableCheckRunConclusionLevel": "failure"
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW"
+  }
+}
